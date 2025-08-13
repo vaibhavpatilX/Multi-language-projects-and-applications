@@ -1,0 +1,7 @@
+---------------------- Marvellous Chat Application ----------------------
+Client says: Namaskar
+Server says: Hello
+Client says: Jay Ganesh
+Server says: Yes Jay Ganesh
+Client says: ok bye
+Server says: ok bye
