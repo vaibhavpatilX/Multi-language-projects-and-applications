@@ -1,5 +1,6 @@
 # Multi-language-projects-and-applications
 A curated collection of my programming projects and applications built in C, C++, Java, and Spring Boot. Covers concepts from problem-solving &amp; DSA to real-world backend development with REST APIs and database integration.
+
 # Multi-Language Projects & Applications 🚀
 
 This repository showcases my hands-on work in **C**, **C++**, **Java**, and **Spring Boot**.  
@@ -45,3 +46,4 @@ SpringBoot_Applications/ # Java Spring Boot projects with REST APIs & DB integra
       
       Spring Boot: Run with mvn spring-boot:run or from your IDE.
       
+
