@@ -1,8 +1,13 @@
-🌐 **Multi-Language Projects & Applications**
+
+# 🌐 Multi-Language Projects & Applications
 
 ---
 
 ![Repo Banner](https://img.shields.io/badge/Multi--Language--Projects-C%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20SpringBoot-blueviolet?style=for-the-badge\&logo=github)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Language--Projects-C%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20SpringBoot-blueviolet?style=for-the-badge&logo=github"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c"/>
