@@ -1,49 +1,76 @@
-# Multi-language-projects-and-applications
-A curated collection of my programming projects and applications built in C, C++, Java, and Spring Boot. Covers concepts from problem-solving &amp; DSA to real-world backend development with REST APIs and database integration.
-
-# Multi-Language Projects & Applications 🚀
-
-This repository showcases my hands-on work in **C**, **C++**, **Java**, and **Spring Boot**.  
-It contains a mix of problem-solving programs, data structures & algorithms (DSA), and full-fledged applications demonstrating backend development skills.
-
----
-
-## 📂 Project Structure
-C_Programming/ # Core C programs, problem-solving, and algorithms
-C_File_Handling/ # C programs demonstrating file manipulation
-CPP_Programming/ # C++ programs with OOP, STL, and advanced logic
-Java_Programming/ # Java programs covering OOP, collections, and design patterns
-SpringBoot_Applications/ # Java Spring Boot projects with REST APIs & DB integration
+🌐 Multi-Language Projects & Applications
 
 
----
 
-## 💡 Highlights
-- **Multi-language expertise** – C, C++, Java, Spring Boot
-- **Strong DSA foundation** – Logic building, problem-solving
-- **Backend development** – REST APIs, MySQL, MongoDB
-- **Real-world coding practices** – Modular, documented, version-controlled
 
----
 
-## 🛠 Tech Stack
-- **Languages:** C, C++, Java
-- **Frameworks:** Spring Boot
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Maven, IntelliJ IDEA, VS Code
 
----
 
-## 📜 How to Run
-1. Clone the repository:
-            https://github.com/vaibhavpatilX/Multi-language-projects-and-applications
-2. Navigate to a specific project folder.
 
-3. Compile/Run based on the language:
-      C/C++: gcc program.c -o program && ./program
-      
-      Java: javac Program.java && java Program
-      
-      Spring Boot: Run with mvn spring-boot:run or from your IDE.
-      
-      
+
+
+
+
+
+
+📖 About
+
+This repository is a curated collection of programming projects and applications I’ve built across C, C++, Java, and Spring Boot.
+It includes problem-solving, DSA implementations, and real-world applications showcasing backend development skills (REST APIs, DB integration, modular coding).
+
+📂 Repository Structure
+📦 Multi-language-projects-and-applications
+ ┣ 📁 C_Programming           # Core C programs, algorithms, problem-solving
+ ┣ 📁 C_File_Handling         # C programs with file handling operations
+ ┣ 📁 CPP_Programming         # C++ (OOP, STL, DSA, advanced logic)
+ ┣ 📁 Java_Programming        # Java programs (OOP, Collections, Design Patterns)
+ ┣ 📁 SpringBoot_Applications # Full-fledged Spring Boot apps with REST & DB
+
+🚀 Highlights
+
+🔹 Multi-language expertise → C, C++, Java, Spring Boot
+
+🔹 DSA foundations → Problem-solving, algorithms, logic building
+
+🔹 Backend skills → REST APIs, MySQL, MongoDB
+
+🔹 Practical coding → Modular, clean, and documented
+
+🛠 Tech Stack
+
+Languages: C, C++, Java
+
+Frameworks: Spring Boot
+
+Databases: MySQL, MongoDB
+
+Tools: Git, Maven, IntelliJ IDEA, VS Code
+
+▶️ How to Run
+
+Clone the repo
+
+git clone https://github.com/vaibhavpatilX/Multi-language-projects-and-applications
+
+
+Navigate to a specific project folder.
+
+Compile/Run based on language:
+
+C/C++
+
+gcc program.c -o program && ./program
+g++ program.cpp -o program && ./program
+
+
+Java
+
+javac Program.java && java Program
+
+
+Spring Boot
+
+mvn spring-boot:run
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=Multi-language-projects-and-applications&theme=tokyonight" alt="Repo Stats"/> </p>
